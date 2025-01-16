@@ -1,0 +1,7 @@
+
+
+typescript----> js ---> then this runs into browser and 
+                                            node js
+
+while code is getting converted from ts to js we can catch errors
+at compile time like c++ 

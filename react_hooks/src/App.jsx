@@ -38,7 +38,7 @@ import { useState } from "react"
 //here all components will get rerender 
 
 
-    //MINIMIZING THE RERENDERS
+    //MINIMIZING THE RERENDERS -----------------------------------------------------------------------------------------
 
 
 // function App(){
